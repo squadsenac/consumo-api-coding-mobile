@@ -1,0 +1,33 @@
+body{
+    background-color: lightgray;
+}
+
+#btn_facts{
+    margin-top: 6px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    background-color: brown;
+    color: white;
+}
+
+.contChuck{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#img_01{
+    margin-top: 9px;
+    border: 2px dashed red;
+    border-radius: 20px;
+}
+
+#chuck{
+    margin-top: 6px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
